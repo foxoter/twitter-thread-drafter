@@ -17,5 +17,7 @@ None of your precious thoughts gets lost even after reloading.
 ## Features to come
 * A bit of an actual design
 * Twitter account integration
+## Demo
+![](demo.gif)
 
 
